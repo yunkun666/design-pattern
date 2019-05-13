@@ -1,9 +1,9 @@
-package com.codetears.SimpleFactory;
+package main.com.codetears.SimpleFactory;
 
-import com.codetears.SimpleFactory.operation.AddOperation;
-import com.codetears.SimpleFactory.operation.MulOperation;
-import com.codetears.SimpleFactory.operation.Operation;
-import com.codetears.SimpleFactory.operation.SubOperation;
+import main.com.codetears.SimpleFactory.operation.AddOperation;
+import main.com.codetears.SimpleFactory.operation.MulOperation;
+import main.com.codetears.SimpleFactory.operation.Operation;
+import main.com.codetears.SimpleFactory.operation.SubOperation;
 
 /**
  * @Description 代理工厂

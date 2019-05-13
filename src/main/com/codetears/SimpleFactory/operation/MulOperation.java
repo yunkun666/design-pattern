@@ -1,4 +1,4 @@
-package com.codetears.SimpleFactory.operation;
+package main.com.codetears.SimpleFactory.operation;
 
 /**
  * @Description 乘法

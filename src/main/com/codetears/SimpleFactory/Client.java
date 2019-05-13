@@ -1,4 +1,4 @@
-package com.codetears.SimpleFactory;
+package main.com.codetears.SimpleFactory;
 
 import java.util.Scanner;
 
