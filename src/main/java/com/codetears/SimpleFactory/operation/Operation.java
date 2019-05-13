@@ -1,9 +1,9 @@
 package com.codetears.SimpleFactory.operation;
 
 /**
- * @Description: 运算
- * @author: MAYUNKUN
- * @date: 2019年5月8日下午5:32:33
+ * @Description 运算
+ * @Date 2019-05-13 10:26
+ * @Author l'amour solitaire
  */
 public class Operation {
     protected Double result;
