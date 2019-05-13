@@ -3,9 +3,9 @@ package com.codetears.SimpleFactory;
 import java.util.Scanner;
 
 /**
- * @Description: 测试客户端
- * @author: MAYUNKUN
- * @date: 2019年5月8日下午6:04:28
+ * @Description 测试
+ * @Date 2019-05-13 10:27
+ * @Author l'amour solitaire
  */
 public class Client {
 
