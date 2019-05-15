@@ -3,7 +3,7 @@ package main.com.codetears.SimpleFactory;
 import java.util.Scanner;
 
 /**
- * @Description 测试
+ * @Description 工厂模式测试
  * @Date 2019-05-13 10:27
  * @Author l'amour solitaire
  */
