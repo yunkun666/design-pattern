@@ -1,7 +1,7 @@
 package main.com.codetears.Straegy;
 
 /**
- * @Description
+ * @Description 策略模式测试
  * @Date 2019-05-13 14:30
  * @Author l'amour solitaire
  */
